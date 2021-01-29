@@ -8,7 +8,7 @@
 [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonatha.b13@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhonscriptt/)
 [![Facebook Badge](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/jhonathahandz)
-[![Twitch Badge](https://img.shields.io/badge/-Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white&link=https://www.twitch.com/in/jhonscriptt/)](https://www.twitch.com/in/jhonscriptt/)
+[![Twitch Badge](https://img.shields.io/badge/-Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white&link=https://www.twitch.com/jhonscriptt/)](https://www.twitch.com/jhonscriptt/)
 
 - 🔭 I’m currently working on front-end freelancer
 - 🌱 I’m currently learning Javascript, React
