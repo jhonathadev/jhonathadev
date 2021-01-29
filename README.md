@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+**Contato e redes sociais**:
+> [LinkedIn](https://www.linkedin.com/in/jhonathacordeiro/)
+> [Instagram](https://www.instagram.com/jhonscriptt/)
+> [Facebook](https://www.facebook.com/jhonathahandz/)
+> [Twitch](https://www.twitch.tv/jhonscriptt/)
+**Status:**
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonathadev)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **jhonathadev/jhonathadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
