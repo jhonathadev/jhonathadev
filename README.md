@@ -1,4 +1,7 @@
-### Hi there, i'm John! 👋
+<img align="right" src="https://github.com/jhonathadev/jhonathadev/blob/main/imgs/illustration.png" width="300"/>
+
+
+### Hi there, I'm John! 👋
 
 Information Systems student at the Federal University of Viçosa, passionate about solving problems using technology!
 
