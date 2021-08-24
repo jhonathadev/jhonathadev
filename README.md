@@ -10,16 +10,19 @@ Information Systems student at the Federal University of Viçosa, passionate abo
 [![Facebook Badge](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/jhonathahandz)
 [![Twitch Badge](https://img.shields.io/badge/-Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white&link=https://www.twitch.com/jhonscriptt/)](https://www.twitch.com/jhonscriptt/)
 
+
+- 🔭 I am looking for a new job opportunity
+- 🌱 I’m currently learning Typescript, React and NodeJs
+
+
+<!--
 **Skills**:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonathadev&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonathadev&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I am currently working on freelance front-end, but I am looking for a new job opportunity
-- 🌱 I’m currently learning Javascript, React, NodeJs
 
-<!--
 **jhonathadev/jhonathadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
