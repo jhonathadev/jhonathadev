@@ -8,7 +8,7 @@ Information Systems student at the Federal University of Viçosa, passionate abo
 **Contact**:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonathacordeiro/)](https://www.linkedin.com/in/jhonathacordeiro/)
-[![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonatha.gomes@ufv.com)
+<!-- [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonatha.gomes@ufv.com) -->
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/johnscriptt/)
 
 
