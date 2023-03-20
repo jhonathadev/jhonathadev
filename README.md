@@ -3,7 +3,7 @@
 
 ### Hi there, I'm John! 👋
 
-Information Systems student at the Federal University of Viçosa, passionate about solving problems using technology!
+Information Systems Bachelor at Federal University of Viçosa, passionate about solving problems using technology!
 
 **Contact**:
 
